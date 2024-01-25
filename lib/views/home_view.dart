@@ -8,6 +8,11 @@ import 'package:news_app/widgets/news_list_view.dart';
 import 'package:news_app/widgets/news_list_view_builder.dart';
 import 'package:news_app/widgets/news_tile.dart';
 
+
+
+//sherif shouaib
+
+
 class HomeView extends StatelessWidget {
   const HomeView({super.key});
 
